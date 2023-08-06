@@ -77,36 +77,3 @@ transform: scaleX(1);
     left: 100%;
   }
 
-  /* .slides {
-    display: flex;
-    overflow: hidden;
-    width: 100%;/* Adjust this to your desired slides width */
-    margin: 0 auto;
-    animation: slidesAnimation 5s infinite; /* Adjust the time for each image transition */
-  }
-  
-  .slides img {
-    width: 100%;
-    height: auto;
-    position: absolute;
-    opacity: 0;
-    transition: opacity 1s;
-  }
-  
-  /* Set the initial state of the first image */
-  .slides img:first-child {
-    opacity: 1;
-  }
-  
-  @keyframes slidesAnimation {
-    0% {
-      opacity: 0;
-    }
-    20%, 80% {
-      opacity: 1;
-    }
-    100% {
-      opacity: 0;
-    }
-  }
-   */
